@@ -1,0 +1,50 @@
+
+.container {
+	margin: auto;
+	max-width: 700px;
+	padding: 250px 20px 20px 20px;
+	text-align: center;
+}
+
+.tblsurvey {
+	font-size: 120%;
+	margin: auto;
+	padding: 10px;
+	width: 100%;
+}
+
+.tdtopic {
+	text-align: left;
+}
+
+.tdbtn {
+	width: 125px;
+}
+
+.btntopic {
+	background-color: #00BF6F;
+	border: 2px solid #00BF6F;
+	border-radius: 2px;
+	color: white;
+	cursor: pointer;
+	font-size: 100%;
+	height: 40px;
+	width: 120px;
+}
+
+.btntopic:hover {
+	background-color: white;
+	border: 2px solid #00BF6F;
+	color:  #00BF6F;
+}
+
+.sorry {
+	margin: auto;
+	max-width: 500px;
+}
+
+@media only screen and (max-width: 600px) {
+	.sorry {
+		width: 100%;
+	}
+}

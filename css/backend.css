@@ -1,0 +1,64 @@
+
+img.logo {
+	height: 40px;
+	margin-bottom: -5px;
+	margin-top: -5px;
+}
+
+.mynav {
+	color: white;
+	padding: 7px 0px 7px 0px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.mynav:hover {
+	color: white;
+	text-decoration: none;
+}
+
+.button {
+	background-color: #4CAF50;
+	border: 2px solid #4CAF50;
+	border-radius: 2px;
+	color: white;
+	cursor: pointer;
+	height: 40px;
+	width: 120px;
+}
+
+.button:hover {
+	background-color: white;
+	border: 2px solid #4CAF50;
+	color: #4CAF50;
+}
+
+.txtedit {
+	padding: 7px;
+}
+
+.txtedit1 {
+	padding: 7px;
+	resize: none;
+}
+
+a.icon {
+	text-decoration: none;
+	color: black;
+}
+
+/* Admin */
+
+.homeedit {
+	height: 150px;
+	width: 100%;
+	resize: none;
+	text-align: center;
+}
+
+.aboutedit {
+	height: 170px;
+	width: 100%;
+	resize: none;
+	text-align: center;
+}

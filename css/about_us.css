@@ -1,0 +1,80 @@
+
+/* Two Cards */
+
+.main{
+	margin: 0 auto;
+	max-width: 1250px;
+	padding-top: 200px;
+}
+
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.cards_item {
+	display: flex;
+	padding: 1rem;
+	width: 100%;
+}
+
+.card {
+	border-radius: 0.5rem;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	overflow: hidden;
+	width: 100%;
+}
+
+.card_content_1 {
+	background-color: #00BF6F;
+	height: 100%;
+	padding: 0px 70px 0px 70px;
+}
+
+.card_content_2 {
+	font-size: 120%;
+	height: 100%;
+	padding: 100px 50px 100px 50px;
+}
+
+.pic_logo {
+	width: 100%;
+}
+
+/* Mobile */
+
+@media (min-width: 40rem) {
+
+	/* Mobile Two Cards */
+
+	.cards_item {
+		width: 50%;
+	}
+}
+
+@media (min-width: 56rem) {
+
+	/* Mobile Two Cards */
+
+	.cards_item {
+		width: 50%;
+	}
+}
+
+@media (max-width:600px) {
+
+	/* Two Cards */
+
+	.card_content_1 {
+		padding: 80px 30px 80px 30px;
+	}
+	
+	.card_content_2 {
+		padding: 40px 30px 40px 30px;
+	}
+}

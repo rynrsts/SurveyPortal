@@ -1,0 +1,99 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	color: #2F3F4F;
+	font-family: yu gothic ui;
+	margin: 0px;
+}
+
+/* Footer */
+
+.footer-section {
+	margin-top: 200px;
+	padding-bottom: 10px;
+}
+
+.copyright-area {
+	padding: 7px 0px;
+}
+
+.copyright-area p {
+	color: #000000;
+	font-size: 15px;
+	margin: 0;
+	text-align: center;
+}
+
+/* Header */
+
+.header {
+	background-color: #00BF6F;
+	position: fixed;
+	width: 100%;
+}
+
+.nav {
+	background-color: #00BF6F;
+	height: 50px;
+	margin: auto;
+	max-width: 1250px;
+	position: relative;
+}
+
+.nav > .nav-header {
+	display: inline;
+}
+
+.nav > .nav-header > .nav-title {
+	display: inline-block;
+	padding: 10px 10px 10px 10px;
+}
+
+.logo {
+	height: 35px;
+}
+
+/* Form */
+
+.container {
+	margin: auto;
+	max-width: 450px;
+	padding-top: 200px;
+}
+
+.tablelogin {
+	background-color: #F2F2F2;
+	border-radius: 7px;
+	box-shadow: 10px 10px 20px gray;
+	margin: 0px 25px 0px 25px;
+	padding: 20px 50px 50px 50px;
+}
+
+.labelup {
+	margin: 20px 0px 20px 0px;
+}
+
+.usernp {
+	margin-top: 10px;
+	padding: 7px 0px 7px 7px;
+	width: 100%;
+}
+
+#btnlogin {
+	background-color: #00BF6F;
+	border: 0px;
+	border-radius: 2px;
+	color: white;
+	cursor: pointer;
+	font-weight: bold;
+	height: 35px;
+	margin-top: 50px;
+	width: 100%;
+}
+
+#btnlogin:hover {
+	background-color: #3CC971;
+	color: white;
+}
