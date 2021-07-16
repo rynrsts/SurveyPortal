@@ -42,6 +42,7 @@ The following are the notes for the **Survey Records**:
 
 - HTML5
 - CSS3
+- Boostrap
 - JavaScript
 - PHP
 - MySQL
