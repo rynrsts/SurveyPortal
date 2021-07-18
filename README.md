@@ -38,6 +38,14 @@ The following are the notes for the **Survey Records**:
 
 <br>
 
+## Screenshot
+
+![image1](https://user-images.githubusercontent.com/84888155/126061528-10a5d862-def0-48f3-bba3-0897e6c90c46.png)
+
+![image2](https://user-images.githubusercontent.com/84888155/126061555-3b3e3b09-066b-45b0-8f43-7ef7ccecc75a.PNG)
+
+<br>
+
 ## Language and Tools
 
 - HTML5
