@@ -10,17 +10,17 @@ This project focuses on the server-side – the dynamic use of data and database
 
 ### Scope
 
+The following are the scope of the **Front-end**:
+- View Home, Survey, About Us, and Contact Us pages
+- Answer surveys made in the back-end
+- Submit message to the back-end
+- 
 The following are the scope of the **Back-end**:
 - View and update texts for the front-end
 - View, create and delete survey topics, questions and choices
 - View and delete survey records
 - View and delete messages
 - View, update and delete account information
-
-The following are the scope of the **Front-end**:
-- View Home, Survey, About Us, and Contact Us pages
-- Answer surveys made in the back-end
-- Submit message to the back-end
 
 The following are the scope of the **Database**:
 - Normalized
