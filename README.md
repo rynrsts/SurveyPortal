@@ -14,7 +14,7 @@ The following are the scope of the **Front-end**:
 - View Home, Survey, About Us, and Contact Us pages
 - Answer surveys made in the back-end
 - Submit message to the back-end
-- 
+
 The following are the scope of the **Back-end**:
 - View and update texts for the front-end
 - View, create and delete survey topics, questions and choices
