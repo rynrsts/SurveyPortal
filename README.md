@@ -55,6 +55,7 @@ The following are the notes for the **Survey Records**:
 - PHP
 - MySQL
 - XAMPP
+- Apache
 - Any text editor (e.g. VS Code, Sublime)
 
 ### Note
