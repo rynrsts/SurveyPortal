@@ -75,7 +75,7 @@ The following are the notes for the **Survey Records**:
 
 <br>
 
-## How to execute
+## How to Execute
 
 [Click here to see the instructions](https://github.com/rynrsts/SurveyPortal/blob/main/EXECUTE.md)
 
