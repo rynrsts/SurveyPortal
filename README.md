@@ -78,3 +78,10 @@ The following are the notes for the **Survey Records**:
 ## How to execute
 
 [Click here to see the instructions](https://github.com/rynrsts/SurveyPortal/blob/main/EXECUTE.md)
+
+<br>
+
+## Want to Contribute?
+
+- Raise an Issue
+- Make a Pull Request
