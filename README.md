@@ -52,10 +52,12 @@ The following are the notes for the **Survey Records**:
 - CSS3
 - Boostrap
 - JavaScript
-- PHP
-- MySQL
 - XAMPP
-- Apache
+- WAMP Stack
+	- Windows
+	- Apache
+	- MySQL
+	- PHP
 - Any text editor (e.g. VS Code, Sublime)
 
 ### Note
